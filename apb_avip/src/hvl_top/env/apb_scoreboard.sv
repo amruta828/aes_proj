@@ -31,7 +31,7 @@ class apb_scoreboard extends uvm_scoreboard;
   extern virtual function void report_phase(uvm_phase phase);
 
   // AES Reference Model Static Methods
-  static function automatic logic [7:0] sbox(logic [7:0] x);
+ function logic [7:0] sbox(logic [7:0] x);
     return SBOX_P[(255-x)*8 +: 8];
   endfunction
 
@@ -39,7 +39,7 @@ class apb_scoreboard extends uvm_scoreboard;
     return a[7] ? ((a << 1) ^ 8'h1b) : (a << 1);
   endfunction
 
-  static function automatic logic [127:0] aes128_encrypt(logic [127:0] key, logic [127:0] pt);
+function logic [127:0] aes128_encrypt(logic [127:0] key, logic [127:0] pt);
     logic [7:0] st [0:15];
     logic [7:0] tmp [0:15];
     logic [7:0] rk [0:15];
