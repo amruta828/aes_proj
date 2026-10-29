@@ -1,0 +1,116 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        1
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        2
+    ],
+    "_vcs_unit__106456144": [
+        "_vcs_unit__106456144",
+        "JK9gI",
+        "module",
+        3
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        4
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        5
+    ],
+    "_vcs_msglog": [
+        "_vcs_msglog",
+        "zQBzV",
+        "module",
+        6
+    ],
+    "uvm_custom_install_verdi_recording": [
+        "uvm_custom_install_verdi_recording",
+        "EbjT3",
+        "module",
+        7
+    ],
+    "apb_global_pkg": [
+        "apb_global_pkg",
+        "Qqjd9",
+        "module",
+        8
+    ],
+    "apb_master_pkg": [
+        "apb_master_pkg",
+        "uBHNZ",
+        "module",
+        9
+    ],
+    "apb_master_seq_pkg": [
+        "apb_master_seq_pkg",
+        "UiSaj",
+        "module",
+        10
+    ],
+    "apb_env_pkg": [
+        "apb_env_pkg",
+        "sTJEP",
+        "module",
+        11
+    ],
+    "apb_virtual_seq_pkg": [
+        "apb_virtual_seq_pkg",
+        "ARcAv",
+        "module",
+        12
+    ],
+    "apb_test_pkg": [
+        "apb_test_pkg",
+        "nAn5B",
+        "module",
+        13
+    ],
+    "apb_if": [
+        "apb_if",
+        "d9vZk",
+        "module",
+        14
+    ],
+    "apb_master_driver_bfm": [
+        "apb_master_driver_bfm",
+        "sfMtz",
+        "module",
+        15
+    ],
+    "apb_master_monitor_bfm": [
+        "apb_master_monitor_bfm",
+        "km5Mf",
+        "module",
+        16
+    ],
+    "hdl_top": [
+        "hdl_top",
+        "Svwsh",
+        "module",
+        17
+    ],
+    "hvl_top": [
+        "hvl_top",
+        "hLrg8",
+        "module",
+        18
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        19
+    ]
+}
