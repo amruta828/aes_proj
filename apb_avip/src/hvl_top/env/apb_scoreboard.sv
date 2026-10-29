@@ -1,10 +1,6 @@
 `ifndef APB_SCOREBOARD_INCLUDED_
 `define APB_SCOREBOARD_INCLUDED_
 
-//--------------------------------------------------------------------------------------------
-// Class: apb_scoreboard
-// Description: Scoreboard for AES-128 accelerator with integrated reference model.
-//--------------------------------------------------------------------------------------------
 class apb_scoreboard extends uvm_scoreboard;
   `uvm_component_utils(apb_scoreboard)
 
