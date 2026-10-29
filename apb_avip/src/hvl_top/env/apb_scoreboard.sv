@@ -35,7 +35,7 @@ class apb_scoreboard extends uvm_scoreboard;
     return SBOX_P[(255-x)*8 +: 8];
   endfunction
 
-  static function automatic logic [7:0] xtime(logic [7:0] a);
+  function logic [7:0] xtime(logic [7:0] a);
     return a[7] ? ((a << 1) ^ 8'h1b) : (a << 1);
   endfunction
 
